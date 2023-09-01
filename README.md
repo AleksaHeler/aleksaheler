@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aleksa Heler</h1>
 <h3 align="center">Computer science and electrical engineering student from Serbia</h3>
+<h3 align="center">Embedded engineer at Continental Automotive</h3>
 
-- 🔭 I’m currently working on **game development and embedded engineering**
+- 🔭 I’m currently working on **embedded SW/HW engineering**
 
 - 🌱 I’m currently studying at **University of Novi Sad**
 
