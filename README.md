@@ -25,7 +25,11 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksaheler&show_icons=true&locale=en" alt="aleksaheler" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksaheler&" alt="aleksaheler" /></p>
 
+---
+
 <h3 align="center">Some of my projects:</h3>
+
+<h4 align="center">Embedded, SW, HW...</h4>
 
 <!-- OpenHand -->
 <p align="center">
@@ -61,6 +65,8 @@
   <a href="https://github.com/AleksaHeler/FTN-LPRS2-Emulator"><img src="pics/wolfenstein.jpg" alt="Wolfenstein port to custom emulator" width="60%" align="center"/></a>
 </p>
 
+<h4 align="center">Woodworking</h4>
+
 <!-- Woodworking -->
 <p align="center">
   <a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_walnut_desk_1.jpeg" alt="Walnut desk" width="26%" align="center"/></a>
@@ -80,6 +86,8 @@
   <a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_gift_box.jpeg" alt="Gift box" width="26%" align="center"/></a>
   <a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_small_shelf.jpeg" alt="Small shelf" width="26%" align="center"/></a>
 </p>
+
+<h4 align="center">Game dev</h4>
 
 <!-- Unity games -->
 <p align="center">
