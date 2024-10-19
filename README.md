@@ -26,3 +26,50 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksaheler&" alt="aleksaheler" /></p>
 
 <h3 align="center">Some of my projects:</h3>
+
+<!-- OpenHand -->
+<p align="center">
+  <a href="https://github.com/AleksaHeler/ProstheticHand"><img src="pics/open_hand_pcb.jpg" alt="OpenHand PCB" width="40%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/ProstheticHand"><img src="pics/open_hand_pcb_model.png" alt="OpenHand PCB" width="40%" align="center"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AleksaHeler/ProstheticHand"><img src="pics/openhand_model.png" alt="OpenHand" width="40%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/ProstheticHand"><img src="pics/openhand_mounted.jpg" alt="OpenHand" width="40%" align="center"/></a>
+</p>
+
+<!-- Marshall Guv'nor -->
+<p align="center">
+  <a href="https://github.com/AleksaHeler/Marshall-Guvnor"><img src="pics/marshall_pcb_model.png" alt="Marshall Guv'nor Guitar Pedal" width="26%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Marshall-Guvnor"><img src="pics/marshall_building.jpg" alt="Marshall Guv'nor Guitar Pedal" width="26%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Marshall-Guvnor"><img src="pics/marshall_finished_pedal.jpg" alt="Marshall Guv'nor Guitar Pedal" width="26%" align="center"/></a>
+</p>
+
+<!-- FlexNode -->
+<p align="center">
+  <a href="https://github.com/AleksaHeler/FlexNode"><img src="pics/flexnode_readings.png" alt="FlexNode POC readings" width="80%" align="center"/></a>
+</p>
+
+<!-- DC Load -->
+<p align="center">
+  <a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/dc_load_schm.png" alt="Programmable DC Load" width="26%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/dc_load_pcb_model.png" alt="Programmable DC Load" width="26%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/dc_load_pcb.jpg" alt="Programmable DC Load" width="26%" align="center"/></a>
+</p>
+
+<!-- Wolfenstein port to emulator -->
+<p align="center">
+  <a href="https://github.com/AleksaHeler/FTN-LPRS2-Emulator"><img src="pics/wolfenstein.jpg" alt="Wolfenstein port to custom emulator" width="60%" align="center"/></a>
+</p>
+
+<!-- Unity games -->
+<p align="center">
+  <a href="https://github.com/AleksaHeler/Unity-Crossy-Road"><img src="pics/unity_crossy_road.png" alt="Unity game - Crossy Road" width="26%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Unity-Void"><img src="pics/unity_void.png" alt="Unity game - Void" width="26%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Unity-Altercell"><img src="pics/unity_altercell.png" alt="Unity game - Altercell" width="26%" align="center"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AleksaHeler/Unity-MazeEscape"><img src="pics/unity_maze_escape.png" alt="Unity game - Maze Escape" width="26%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Unity-Space-Escape"><img src="pics/unity_space_escape.png" alt="Unity game - Space Escape" width="26%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Unity-Dungeon-Game"><img src="pics/unity_dungeon.png" alt="Unity game - Darkest Dungeon" width="26%" align="center"/></a>
+</p>
+
