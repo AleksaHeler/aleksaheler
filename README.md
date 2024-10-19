@@ -22,6 +22,7 @@
 </p>
 
 <!-- Some macros for statistics -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksaheler&show_icons=true&locale=en" alt="aleksaheler" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksaheler&" alt="aleksaheler" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksaheler&show_icons=true&locale=en" alt="aleksaheler" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksaheler&" alt="aleksaheler" /></p>
 
 <h3 align="center">Some of my projects:</h3>
