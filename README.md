@@ -61,6 +61,26 @@
   <a href="https://github.com/AleksaHeler/FTN-LPRS2-Emulator"><img src="pics/wolfenstein.jpg" alt="Wolfenstein port to custom emulator" width="60%" align="center"/></a>
 </p>
 
+<!-- Woodworking -->
+<p align="center">
+  <a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_walnut_desk_1.jpeg" alt="Walnut desk" width="26%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_walnut_desk_2.jpeg" alt="Walnut desk" width="26%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_walnut_desk_3.jpeg" alt="Walnut desk" width="26%" align="center"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_walnut_coffee_table_1.jpeg" alt="Walnut coffee table" width="40%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_walnut_coffee_table_2.jpeg" alt="Walnut coffee table" width="40%" align="center"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_cherry_desk.jpeg" alt="Cherry desk" width="40%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_chess_board.jpeg" alt="Chess board" width="40%" align="center"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_bathroom_cabinet.jpeg" alt="Bathroom cabinet" width="26%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_gift_box.jpeg" alt="Gift box" width="26%" align="center"/></a>
+  <a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_small_shelf.jpeg" alt="Small shelf" width="26%" align="center"/></a>
+</p>
+
 <!-- Unity games -->
 <p align="center">
   <a href="https://github.com/AleksaHeler/Unity-Crossy-Road"><img src="pics/unity_crossy_road.png" alt="Unity game - Crossy Road" width="26%" align="center"/></a>
