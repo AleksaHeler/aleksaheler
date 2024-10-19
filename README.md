@@ -1,25 +1,27 @@
-<h1 align="center">Hi 👋, I'm Aleksa Heler</h1>
-<h3 align="center">Computer science and electrical engineering student from Serbia</h3>
-<h3 align="center">Embedded engineer at Continental Automotive</h3>
+<h1 align="center">Hi, I'm Aleksa Heler</h1>
+<p align="center">Computer science and electrical engineering student from Serbia, <br/>working as <b>embedded engineer</b> at Continental Automotive, <br/>with a bunch of personal projects</p>
 
-- 🔭 I’m currently working on **embedded SW/HW engineering**
-
-- 🌱 I’m currently studying at **University of Novi Sad**
-
-- 👯 I’m looking to collaborate on **fun projects**
-
-- 📫 How to reach me: **aleksaheler@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aleksa-heler-83223614b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksa-heler-83223614b" height="30" width="40" /></a>
-<a href="https://instagram.com/aleksaheler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleksaheler" height="30" width="40" /></a>
+<p align="center">You can reach out to me here<br/>↓</p>
+<p align="center">
+<a href="mailto:aleksaheler@gmail.com" target="blank"><img align="center" src="pics/icons/mail.svg" alt="aleksaheler@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aleksa-heler-83223614b" target="blank"><img align="center" src="pics/icons/linkedin.svg" alt="Aleksa Heler @ LinkedIn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h3 align="center">Things I do:</h3>
+<p align="center"> 
+  <a href="https://www.cprogramming.com/" target="blank"><img src="pics/icons/c-language.svg" alt="C" width="50" height="50"/></a> 
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="blank"><img src="pics/icons/esp32.png" alt="ESP32" width="50" height="50"/></a> 
+  <a href="https://www.arduino.cc/" target="blank"><img src="pics/icons/arduino.png" alt="Arduino" width="50" height="50"/></a> 
+  <a href="https://www.raspberrypi.org/" target="blank"><img src="pics/icons/raspberrypi.png" alt="Raspberry Pi" width="50" height="50"/></a>
+  <a href="https://www.kicad.org/" target="blank"><img src="pics/icons/kicad.png" alt="KiCAD" width="50" height="50"/></a> 
+  <a href="https://github.com/AleksaHeler/woodworking" target="blank"><img src="pics/icons/woodworking.png" alt="Woodworking" width="50" height="50"/></a> 
+  <a href="https://www.klipper3d.org/" target="blank"><img src="pics/icons/3dprint.svg" alt="3D Printing" width="50" height="50"/></a> 
+  <a href="https://www.autodesk.com/products/fusion-360/overview" target="blank"><img src="pics/icons/fusion.png" alt="Fusion 360" width="50" height="50"/></a> 
+  <a href="https://unity.com/" target="blank"><img src="pics/icons/unity.svg" alt="Unity" width="50" height="50"/></a> 
+  <a href="https://processing.org/" target="blank"><img src="pics/icons/processing.png" alt="Processing" width="50" height="50"/></a> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksaheler&show_icons=true&locale=en" alt="aleksaheler" /></p>
+<!-- Some macros for statistics -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksaheler&show_icons=true&locale=en" alt="aleksaheler" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksaheler&" alt="aleksaheler" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksaheler&" alt="aleksaheler" /></p>
-
+<h3 align="center">Some of my projects:</h3>
