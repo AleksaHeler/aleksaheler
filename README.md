@@ -56,29 +56,6 @@
     <td><a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/dc_load_pcb.jpg" alt="Programmable DC Load"/></a></td>
   </tr>
   <tr>
-    <th colspan="3" align="center">Woodworking</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_walnut_desk_1.jpeg" alt="Walnut desk"/></a></td>
-    <td><a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_walnut_desk_2.jpeg" alt="Walnut desk"/></a></td>
-    <td><a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_walnut_desk_3.jpeg" alt="Bedside table"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_walnut_coffee_table_1.jpeg" alt="Walnut coffee table"/></a></td>
-    <td><a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_walnut_coffee_table_2.jpeg" alt="Walnut coffee table"/></a></td>
-    <td><a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_bedside_table.jpeg" alt="Walnut coffee table"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_cherry_desk.jpeg" alt="Cherry desk"/></a></td>
-    <td><a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_chess_board.jpeg" alt="Chess board"/></a></td>
-    <td><a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_tripod_lamp.jpeg" alt="Tripod lamp"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_bathroom_cabinet.jpeg" alt="Bathroom cabinet"/></a></td>
-    <td><a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_gift_box.jpeg" alt="Gift box"/></a></td>
-    <td><a href="https://github.com/AleksaHeler/Woodworking"><img src="pics/woodworking_small_shelf.jpeg" alt="Small shelf"/></a></td>
-  </tr>
-  <tr>
     <th colspan="3" align="center">Game dev</th>
   </tr>
   <tr>
