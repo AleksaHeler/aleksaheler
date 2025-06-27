@@ -42,16 +42,16 @@
   <tr>
     <!-- DC Load -->
     <td><a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/dc_load_pcb_model.png" alt="Programmable DC Load"/></a></td>
-    <td><a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/assembled_device.jpg" alt="Programmable DC Load"/></a></td>
+    <td><a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/assembled_device.png" alt="Programmable DC Load"/></a></td>
     <td><a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/front_panel_printed.jpg" alt="Programmable DC Load"/></a></td>
   </tr>
   <tr>
     <!-- FlexNode, Wolfenstein port to emulator, ??? -->
     <td><a href="https://github.com/AleksaHeler/FlexNode"><img src="pics/flexnode_readings.png" alt="FlexNode POC readings"/></a></td>
     <td><a href="https://github.com/AleksaHeler/FTN-LPRS2-Emulator"><img src="pics/wolfenstein.jpg" alt="Wolfenstein port to custom emulator"/></a></td>
-    <td><a href="https://github.com/AleksaHeler/FlexNode"><img src="Node/pics/node_poc_2.jpg" alt="FlexNode"/></a></td>
+    <td><a href="https://github.com/AleksaHeler/FlexNode"><img src="pics/node_poc_2.jpg" alt="FlexNode"/></a></td>
   </tr>
-  <tr>
+  <tr>s
     <!-- Marshall Guv'nor -->
     <td><a href="https://github.com/AleksaHeler/Marshall-Guvnor"><img src="pics/marshall_pcb_model.png" alt="Marshall Guv'nor Guitar Pedal"/></a></td>
     <td><a href="https://github.com/AleksaHeler/Marshall-Guvnor"><img src="pics/marshall_building.jpg" alt="Marshall Guv'nor Guitar Pedal"/></a></td>
