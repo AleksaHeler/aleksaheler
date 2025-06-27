@@ -33,27 +33,29 @@
   <tr>
     <th colspan="3" align="center">Embedded, SW, HW...</th>
   </tr>
+  <tr>
     <!-- OpenHand -->
     <td width="33%"><a href="https://github.com/AleksaHeler/ProstheticHand"><img src="pics/open_hand_pcb.jpg" alt="OpenHand PCB"/></a></td>
     <td width="34%"><a href="https://github.com/AleksaHeler/ProstheticHand"><img src="pics/open_hand_pcb_model.png" alt="OpenHand PCB"/></a></td>
-    <td width="33%"><a href="https://github.com/AleksaHeler/ProstheticHand"><img src="pics/openhand_model.png" alt="OpenHand"/></a></td>
-  <tr>
-  </tr>
-    <!-- OpenHand, FlexNode, Wolfenstein port to emulator -->
     <td><a href="https://github.com/AleksaHeler/ProstheticHand"><img src="pics/openhand_mounted.jpg" alt="OpenHand"/></a></td>
+  </tr>
+  <tr>
+    <!-- DC Load -->
+    <td><a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/dc_load_pcb_model.png" alt="Programmable DC Load"/></a></td>
+    <td><a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/assembled_device.jpg" alt="Programmable DC Load"/></a></td>
+    <td><a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/front_panel_printed.jpg" alt="Programmable DC Load"/></a></td>
+  </tr>
+  <tr>
+    <!-- FlexNode, Wolfenstein port to emulator, ??? -->
     <td><a href="https://github.com/AleksaHeler/FlexNode"><img src="pics/flexnode_readings.png" alt="FlexNode POC readings"/></a></td>
     <td><a href="https://github.com/AleksaHeler/FTN-LPRS2-Emulator"><img src="pics/wolfenstein.jpg" alt="Wolfenstein port to custom emulator"/></a></td>
+    <td><a href="https://github.com/AleksaHeler/FlexNode"><img src="Node/pics/node_poc_2.jpg" alt="FlexNode"/></a></td>
+  </tr>
   <tr>
     <!-- Marshall Guv'nor -->
     <td><a href="https://github.com/AleksaHeler/Marshall-Guvnor"><img src="pics/marshall_pcb_model.png" alt="Marshall Guv'nor Guitar Pedal"/></a></td>
     <td><a href="https://github.com/AleksaHeler/Marshall-Guvnor"><img src="pics/marshall_building.jpg" alt="Marshall Guv'nor Guitar Pedal"/></a></td>
     <td><a href="https://github.com/AleksaHeler/Marshall-Guvnor"><img src="pics/marshall_finished_pedal.jpg" alt="Marshall Guv'nor Guitar Pedal"/></a></td>
-  </tr>
-  <tr>
-    <!-- DC Load -->
-    <td><a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/dc_load_schm.png" alt="Programmable DC Load"/></a></td>
-    <td><a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/dc_load_pcb_model.png" alt="Programmable DC Load"/></a></td>
-    <td><a href="https://github.com/AleksaHeler/Programmable-DC-Load"><img src="pics/dc_load_pcb.jpg" alt="Programmable DC Load"/></a></td>
   </tr>
   <tr>
     <th colspan="3" align="center">Game dev</th>
